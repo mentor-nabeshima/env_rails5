@@ -26,7 +26,7 @@ docker-compose web rails _5.2.1_ new . -f -d mysql --skip-bundle
 docker-compose up -d --build
 ```
 
-app/config/database.ymlを以下のように修正
+app/config/database.ymlを以下のように修正  
 ![connect_database](https://user-images.githubusercontent.com/61768993/96358975-2326e080-1148-11eb-9092-e380ebdf78c2.png)
 
 DBの作成
