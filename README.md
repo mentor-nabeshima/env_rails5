@@ -51,3 +51,13 @@ docker attach pictweet_web_1
 
 デバッグの終了  
 Ctrl + p + q
+
+コンテナの停止
+```bash
+docker-compose stop
+```
+
+コンテナの削除
+```bash
+docker-compose down
+```
