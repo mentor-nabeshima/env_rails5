@@ -2,7 +2,7 @@
 Rails5系の開発環境
 DBはmysql5.7を使用
 
-##Usage
+## Usage
 クローン
 クローンしてきたディレクトリがアプリ名になるのでオプションで名前をつける
 git clone https://github.com/mentor-nabeshima/env_rails5.git app_name
