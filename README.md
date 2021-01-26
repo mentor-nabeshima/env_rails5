@@ -18,7 +18,7 @@ docker-compose up -d
 
 Railsのファイル群の生成
 ```bash
-docker-compose web rails _5.2.1_ new . -f -d mysql --skip-bundle
+docker-compose run web rails _5.2.1_ new . -f -d mysql --skip-bundle
 ```
 
 コンテナの再構築
